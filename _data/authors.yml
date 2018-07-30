@@ -485,3 +485,12 @@ chris_buckley:
     bio: "Architect with an engineering background and a passion for working software. Loves pulling things apart and deleting as much as possible."
     github: cmbuckley
     twitter: _cmbuckley
+
+scott_storey:
+    name: Scott Storey
+    image: sstorey.jpg
+    role: Cyber Security Specialist
+    tribe: Infrastructure & Security
+    startDate: 02-10-2017
+    bio: "Security person. Likes people. Causes minimal chaos."
+    twitter: scottstorey
